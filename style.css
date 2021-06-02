@@ -3,7 +3,7 @@
   height: 600px;
   width: 600px;
   box-sizing: border-box;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 0px auto;
   flex-wrap: wrap;
 }
@@ -12,13 +12,13 @@
   display: flex;
   width: 100%;
   box-sizing: border-box;
-  border: 1px solid green;
+  /* border: 1px solid green; */
 }
 
 .col {
   width: 100%;
   box-sizing: border-box;
-  border: 1px solid gray;
+  border: 1px solid teal;
 }
 button {
   display: block;
